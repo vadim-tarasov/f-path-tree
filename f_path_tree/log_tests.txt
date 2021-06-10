@@ -1,0 +1,49 @@
+ C:
+ ├─── $Recycle.Bin
+ ├─── $WinREAgent
+ ├─── bootmgr
+ ├─── BOOTNXT
+ ├─── Documents and Settings
+ ├─── DumpStack.log.tmp
+ ├─── hiberfil.sys
+ ├─── Intel
+ ├─── Microsoft
+ ├─── pagefile.sys
+ ├─── PerfLogs
+ ├─── Program Files
+ ├─── Program Files (x86)
+ │    ├─── Arturia
+ │    ├─── ASIO4ALL v2
+ │    │    ├─── ASIO4ALL v2 Instruction Manual.pdf
+ │    │    ├─── ASIO4ALL Web Site.url
+ │    │    ├─── asio4all.dll
+ │    │    ├─── asio4all64.dll
+ │    │    └─── uninstall.exe
+ │    ├─── Common Files
+ │    ├─── desktop.ini
+ │    ├─── Internet Explorer
+ │    ├─── iZotope
+ │    ├─── Microsoft
+ │    ├─── Microsoft.NET
+ │    ├─── Mozilla Firefox
+ │    ├─── Mozilla Maintenance Service
+ │    ├─── VstPlugins
+ │    ├─── Waves
+ │    ├─── Windows Defender
+ │    ├─── Windows Mail
+ │    ├─── Windows Media Player
+ │    ├─── Windows Multimedia Platform
+ │    ├─── Windows NT
+ │    ├─── Windows Photo Viewer
+ │    ├─── Windows Portable Devices
+ │    ├─── Windows Sidebar
+ │    ├─── WindowsPowerShell
+ │    ├─── WinRAR
+ │    └─── Yandex
+ ├─── ProgramData
+ ├─── Recovery
+ ├─── swapfile.sys
+ ├─── System Volume Information
+ ├─── test
+ ├─── Users
+ └─── Windows
